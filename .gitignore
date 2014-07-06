@@ -1,0 +1,7 @@
+node_modules/
+repos/
+workspace/
+logs/
+config/index.js
+*.sublime*
+.DS_Store

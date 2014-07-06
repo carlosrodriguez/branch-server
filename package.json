@@ -1,0 +1,28 @@
+{
+  "name": "branch-server",
+  "version": "0.0.0",
+  "description": "A simple proxy which serves branches through subdomains",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosrodriguez/branch-server.git"
+  },
+  "keywords": [
+    "branches",
+    "server",
+    "git"
+  ],
+  "author": "Carlos Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrodriguez/branch-server/issues"
+  },
+  "homepage": "https://github.com/carlosrodriguez/branch-server"
+}
